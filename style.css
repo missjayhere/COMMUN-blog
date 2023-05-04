@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Spartan', sans-serif;
+}
+
+h1 {
+    font-size: 30px;
+    line-height: 64px;
+    color:
+}
+
+h2 {
+    font-size: 25px;
+    line-height: 44px;
+}
+
+h3 {
+    font-size: 20px;
+    line height: 24px;
+}
